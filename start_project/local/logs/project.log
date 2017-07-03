@@ -1,63 +1,60 @@
-2017-07-01T05:22:18.494Z - normal: Load ~/.CocosCreator/settings.json
-2017-07-01T05:22:18.498Z - normal: checking language setting...
-2017-07-01T05:22:18.498Z - normal: Language: zh
-2017-07-01T05:22:19.785Z - success: protocol editor-framework registered
-2017-07-01T05:22:19.785Z - success: protocol app registered
-2017-07-01T05:22:19.785Z - success: protocol theme registered
-2017-07-01T05:22:19.785Z - success: protocol profile registered
-2017-07-01T05:22:19.785Z - success: protocol packages registered
-2017-07-01T05:22:19.785Z - success: protocol unpack registerred
-2017-07-01T05:22:19.785Z - success: protocol disable-commonjs registerred
-2017-07-01T05:22:19.922Z - normal: connected!
-2017-07-01T05:22:19.924Z - normal: Check project E:\games\start_project
-2017-07-01T05:22:19.926Z - normal: Initializing Cocos2d
-2017-07-01T05:22:20.154Z - normal: Initializing Asset Database
-2017-07-01T05:22:20.178Z - success: protocol uuid registerred
-2017-07-01T05:22:20.178Z - success: protocol db registerred
-2017-07-01T05:22:20.178Z - success: protocol thumbnail registerred
-2017-07-01T05:22:20.178Z - normal: Loading editor/builtin packages
-2017-07-01T05:22:20.193Z - success: anysdk loaded
-2017-07-01T05:22:20.288Z - success: assets loaded
-2017-07-01T05:22:20.293Z - success: builder loaded
-2017-07-01T05:22:20.295Z - success: hierarchy loaded
-2017-07-01T05:22:20.297Z - success: inspector loaded
-2017-07-01T05:22:20.298Z - success: keystore loaded
-2017-07-01T05:22:20.301Z - success: node-library loaded
-2017-07-01T05:22:20.301Z - success: package-asset loaded
-2017-07-01T05:22:20.303Z - success: preferences loaded
-2017-07-01T05:22:20.312Z - success: project-importer loaded
-2017-07-01T05:22:20.314Z - success: project-settings loaded
-2017-07-01T05:22:20.316Z - success: ui-kit loaded
-2017-07-01T05:22:20.318Z - success: ui-grid loaded
-2017-07-01T05:22:20.320Z - success: scene loaded
-2017-07-01T05:22:20.321Z - success: sprite-editor loaded
-2017-07-01T05:22:20.323Z - success: store loaded
-2017-07-01T05:22:20.327Z - success: timeline loaded
-2017-07-01T05:22:20.327Z - normal: Loading builtin packages
-2017-07-01T05:22:20.329Z - success: asset-db-debugger loaded
-2017-07-01T05:22:20.330Z - success: code-editor loaded
-2017-07-01T05:22:20.330Z - success: color-picker loaded
-2017-07-01T05:22:20.332Z - success: console loaded
-2017-07-01T05:22:20.334Z - success: package-manager loaded
-2017-07-01T05:22:20.339Z - success: sdkbox loaded
-2017-07-01T05:22:20.341Z - success: tester loaded
-2017-07-01T05:22:20.342Z - success: ui-kit-preview-extra loaded
-2017-07-01T05:22:20.343Z - success: ui-kit-preview loaded
-2017-07-01T05:22:20.344Z - success: ui-tree loaded
-2017-07-01T05:22:21.001Z - normal: Initializing project E:\games\start_project
-2017-07-01T05:22:21.008Z - normal: Loading packages
-2017-07-01T05:22:21.013Z - normal: Watching packages
-2017-07-01T05:22:21.023Z - normal: Run Application
-2017-07-01T05:22:21.643Z - success: preview server running at http://localhost:7456
-2017-07-01T05:22:21.643Z - normal: Compiling scripts...
-2017-07-01T05:22:22.721Z - normal: Compiled project javascript file successfully
-2017-07-01T05:22:25.848Z - normal: 1.5.1
-2017-07-01T06:40:26.224Z - normal: Compiled project javascript file successfully
-2017-07-01T06:40:28.977Z - normal: Compiled project javascript file successfully
-2017-07-01T06:40:34.914Z - normal: Compiled project javascript file successfully
-2017-07-01T06:40:38.330Z - normal: Compiled project javascript file successfully
-2017-07-01T06:56:09.057Z - normal: Compiled project javascript file successfully
-2017-07-01T06:56:09.425Z - warn: Failed to set property player<player> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+2017-07-03T13:49:19.954Z - normal: Load ~/.CocosCreator/settings.json
+2017-07-03T13:49:19.960Z - normal: checking language setting...
+2017-07-03T13:49:19.960Z - normal: Language: zh
+2017-07-03T13:49:21.421Z - success: protocol editor-framework registered
+2017-07-03T13:49:21.422Z - success: protocol app registered
+2017-07-03T13:49:21.422Z - success: protocol theme registered
+2017-07-03T13:49:21.422Z - success: protocol profile registered
+2017-07-03T13:49:21.422Z - success: protocol packages registered
+2017-07-03T13:49:21.422Z - success: protocol unpack registerred
+2017-07-03T13:49:21.422Z - success: protocol disable-commonjs registerred
+2017-07-03T13:49:21.569Z - normal: connected!
+2017-07-03T13:49:21.571Z - normal: Check project E:\games\start_project
+2017-07-03T13:49:21.576Z - normal: Initializing Cocos2d
+2017-07-03T13:49:22.827Z - normal: Initializing Asset Database
+2017-07-03T13:49:22.854Z - success: protocol uuid registerred
+2017-07-03T13:49:22.854Z - success: protocol db registerred
+2017-07-03T13:49:22.854Z - success: protocol thumbnail registerred
+2017-07-03T13:49:22.854Z - normal: Loading editor/builtin packages
+2017-07-03T13:49:22.868Z - success: anysdk loaded
+2017-07-03T13:49:22.982Z - success: assets loaded
+2017-07-03T13:49:22.983Z - success: builder loaded
+2017-07-03T13:49:22.985Z - success: hierarchy loaded
+2017-07-03T13:49:22.987Z - success: inspector loaded
+2017-07-03T13:49:22.988Z - success: keystore loaded
+2017-07-03T13:49:22.990Z - success: node-library loaded
+2017-07-03T13:49:22.990Z - success: package-asset loaded
+2017-07-03T13:49:22.992Z - success: preferences loaded
+2017-07-03T13:49:23.004Z - success: project-importer loaded
+2017-07-03T13:49:23.006Z - success: project-settings loaded
+2017-07-03T13:49:23.007Z - success: ui-kit loaded
+2017-07-03T13:49:23.009Z - success: ui-grid loaded
+2017-07-03T13:49:23.011Z - success: scene loaded
+2017-07-03T13:49:23.012Z - success: sprite-editor loaded
+2017-07-03T13:49:23.014Z - success: store loaded
+2017-07-03T13:49:23.018Z - success: timeline loaded
+2017-07-03T13:49:23.018Z - normal: Loading builtin packages
+2017-07-03T13:49:23.021Z - success: asset-db-debugger loaded
+2017-07-03T13:49:23.022Z - success: code-editor loaded
+2017-07-03T13:49:23.022Z - success: color-picker loaded
+2017-07-03T13:49:23.025Z - success: console loaded
+2017-07-03T13:49:23.026Z - success: package-manager loaded
+2017-07-03T13:49:23.033Z - success: sdkbox loaded
+2017-07-03T13:49:23.035Z - success: tester loaded
+2017-07-03T13:49:23.037Z - success: ui-kit-preview-extra loaded
+2017-07-03T13:49:23.039Z - success: ui-kit-preview loaded
+2017-07-03T13:49:23.040Z - success: ui-tree loaded
+2017-07-03T13:49:23.803Z - normal: Initializing project E:\games\start_project
+2017-07-03T13:49:23.816Z - normal: Loading packages
+2017-07-03T13:49:23.821Z - normal: Watching packages
+2017-07-03T13:49:23.833Z - normal: Run Application
+2017-07-03T13:49:24.413Z - success: preview server running at http://localhost:7456
+2017-07-03T13:49:29.447Z - normal: 1.5.1
+2017-07-03T13:53:51.362Z - normal: Compiled project javascript file successfully
+2017-07-03T13:54:14.159Z - normal: Compiled project javascript file successfully
+2017-07-03T13:59:06.517Z - normal: Compiled project javascript file successfully
+2017-07-03T13:59:14.734Z - normal: Compiled project javascript file successfully
+2017-07-03T14:01:21.153Z - warn: Failed to set property star<star> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
     at setAsset (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
     at setByUuid (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
     at _setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
@@ -69,14 +66,135 @@
     at EventEmitter.<anonymous> (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5098)
     at emitMany (events.js:127:13)
     at EventEmitter.emit (events.js:201:7)
-2017-07-01T07:00:50.057Z - failed: [db-task][sync-changes] Failed to import asset E:\games\start_project\assets\script\player.js, message: Compile error: SyntaxError: unknown: Unexpected token, expected , (21:4)
-  19 |     }
-  20 |     // use this for initialization
-> 21 |     onLoad: function () {
+2017-07-03T14:01:23.004Z - warn: Failed to set property star<star> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5535)
+    at Object.setProperty (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:14676)
+    at editor-scene.scene:set-property (file:///D:/cocosCreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8582)
+    at Object.Panel._dispatch (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5098)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-07-03T14:01:23.429Z - warn: Failed to set property star<star> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5535)
+    at Object.setProperty (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:14676)
+    at editor-scene.scene:set-property (file:///D:/cocosCreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8582)
+    at Object.Panel._dispatch (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5098)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-07-03T14:01:23.763Z - warn: Failed to set property star<star> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5535)
+    at Object.setProperty (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:14676)
+    at editor-scene.scene:set-property (file:///D:/cocosCreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8582)
+    at Object.Panel._dispatch (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5098)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-07-03T14:01:25.080Z - warn: Failed to set property star<star> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5535)
+    at Object.setProperty (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:14676)
+    at editor-scene.scene:set-property (file:///D:/cocosCreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8582)
+    at Object.Panel._dispatch (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5098)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-07-03T14:01:25.613Z - warn: Failed to set property star<star> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5535)
+    at Object.setProperty (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:14676)
+    at editor-scene.scene:set-property (file:///D:/cocosCreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8582)
+    at Object.Panel._dispatch (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5098)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-07-03T14:01:25.999Z - warn: Failed to set property star<star> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5535)
+    at Object.setProperty (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:14676)
+    at editor-scene.scene:set-property (file:///D:/cocosCreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8582)
+    at Object.Panel._dispatch (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5098)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-07-03T14:01:26.268Z - warn: Failed to set property star<star> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5535)
+    at Object.setProperty (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:14676)
+    at editor-scene.scene:set-property (file:///D:/cocosCreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8582)
+    at Object.Panel._dispatch (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5098)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-07-03T14:01:26.699Z - warn: Failed to set property star<star> to [object Object] at __scriptAsset, TypeError: Cannot set property __scriptAsset of #<cc_Component> which has only a getter
+    at setAsset (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:804)
+    at setByUuid (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1014)
+    at _setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:1899)
+    at setDeepPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4019)
+    at Object.Editor.setPropertyByPath (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5535)
+    at Object.setProperty (D:\cocosCreator\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:14676)
+    at editor-scene.scene:set-property (file:///D:/cocosCreator/CocosCreator/resources/app.asar/editor/builtin/scene/panel/scene.js:1:8582)
+    at Object.Panel._dispatch (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2294)
+    at EventEmitter.<anonymous> (D:\cocosCreator\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:5098)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-07-03T14:01:42.703Z - normal: Compiled project javascript file successfully
+2017-07-03T14:04:54.056Z - normal: Compiled project javascript file successfully
+2017-07-03T14:04:57.227Z - normal: Compiled project javascript file successfully
+2017-07-03T14:12:28.684Z - normal: Compiled project javascript file successfully
+2017-07-03T14:17:47.224Z - normal: Compiled project javascript file successfully
+2017-07-03T14:18:09.540Z - normal: Compiled project javascript file successfully
+2017-07-03T14:18:45.237Z - normal: Compiled project javascript file successfully
+2017-07-03T14:18:50.546Z - normal: Compiled project javascript file successfully
+2017-07-03T14:19:24.492Z - normal: Compiled project javascript file successfully
+2017-07-03T14:21:10.795Z - normal: Compiled project javascript file successfully
+2017-07-03T14:22:00.915Z - normal: Compiled project javascript file successfully
+2017-07-03T14:22:17.733Z - normal: Compiled project javascript file successfully
+2017-07-03T14:22:45.871Z - normal: Compiled project javascript file successfully
+2017-07-03T14:23:14.853Z - normal: Compiled project javascript file successfully
+2017-07-03T14:23:28.288Z - normal: Compiled project javascript file successfully
+2017-07-03T14:24:00.640Z - normal: Compiled project javascript file successfully
+2017-07-03T14:24:29.020Z - normal: Compiled project javascript file successfully
+2017-07-03T14:24:59.012Z - normal: Compiled project javascript file successfully
+2017-07-03T14:38:58.961Z - normal: Compiled project javascript file successfully
+2017-07-03T14:39:33.493Z - normal: Compiled project javascript file successfully
+2017-07-03T14:40:07.821Z - normal: Compiled project javascript file successfully
+2017-07-03T14:40:17.524Z - normal: Compiled project javascript file successfully
+2017-07-03T14:46:25.705Z - normal: Compiled project javascript file successfully
+2017-07-03T14:47:07.995Z - normal: Compiled project javascript file successfully
+2017-07-03T14:51:20.046Z - normal: Compiled project javascript file successfully
+2017-07-03T14:55:36.703Z - failed: [db-task][sync-changes] Failed to import asset E:\games\start_project\assets\script\game.js, message: Compile error: SyntaxError: unknown: Unexpected token, expected , (71:4)
+  69 | 
+  70 |     // called every frame, uncomment this function to activate update callback
+> 71 |     update: function (dt) {
      |     ^
-  22 |         // 初始化跳跃动作
-  23 |         this.jumpAction = this.setJumpAction();
-  24 |         this.node.runAction(this.jumpAction);
+  72 |         console.log(dt);
+  73 |         // 每帧更新计时器，超过限度还没有生成新的星星
+  74 |         // 就会调用游戏失败逻辑
     at Parser.pp$5.raise (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4443:13)
     at Parser.pp.unexpected (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1755:8)
     at Parser.pp.expect (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1743:33)
@@ -87,25 +205,38 @@
     at Parser.pp$3.parseExprOps (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3394:19)
     at Parser.pp$3.parseMaybeConditional (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3371:19)
     at Parser.pp$3.parseMaybeAssign (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3334:19)
-2017-07-01T07:01:27.797Z - normal: Compiled project javascript file successfully
-2017-07-01T07:02:37.435Z - normal: Compiled project javascript file successfully
-2017-07-01T07:03:55.634Z - normal: Compiled project javascript file successfully
-2017-07-01T07:04:15.161Z - normal: Compiled project javascript file successfully
-2017-07-01T07:04:42.816Z - normal: Compiled project javascript file successfully
-2017-07-01T07:05:08.264Z - normal: Compiled project javascript file successfully
-2017-07-01T07:06:04.903Z - normal: Compiled project javascript file successfully
-2017-07-01T07:07:19.258Z - normal: Compiled project javascript file successfully
-2017-07-01T07:08:27.456Z - normal: Compiled project javascript file successfully
-2017-07-01T07:10:26.910Z - normal: Compiled project javascript file successfully
-2017-07-01T07:15:03.817Z - normal: Compiled project javascript file successfully
-2017-07-01T07:15:59.352Z - normal: Compiled project javascript file successfully
-2017-07-01T07:16:30.716Z - normal: Compiled project javascript file successfully
-2017-07-01T07:18:05.284Z - normal: Compiled project javascript file successfully
-2017-07-01T07:18:37.690Z - normal: Compiled project javascript file successfully
-2017-07-01T07:21:55.077Z - normal: Compiled project javascript file successfully
-2017-07-01T07:22:12.081Z - normal: Compiled project javascript file successfully
-2017-07-01T07:22:20.365Z - normal: Compiled project javascript file successfully
-2017-07-01T07:22:56.823Z - normal: Compiled project javascript file successfully
-2017-07-01T07:23:35.651Z - normal: Compiled project javascript file successfully
-2017-07-01T07:23:56.946Z - normal: Compiled project javascript file successfully
-2017-07-01T07:24:39.360Z - normal: Compiled project javascript file successfully
+2017-07-03T14:55:44.011Z - failed: [db-task][sync-changes] Failed to import asset E:\games\start_project\assets\script\game.js, message: Compile error: SyntaxError: unknown: Unexpected token, expected , (71:4)
+  69 | 
+  70 |     // called every frame, uncomment this function to activate update callback
+> 71 |     update: function (dt) {
+     |     ^
+  72 |         console.log(dt);
+  73 |         // 每帧更新计时器，超过限度还没有生成新的星星
+  74 |         // 就会调用游戏失败逻辑
+    at Parser.pp$5.raise (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4443:13)
+    at Parser.pp.unexpected (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1755:8)
+    at Parser.pp.expect (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1743:33)
+    at Parser.pp$3.parseObj (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3968:12)
+    at Parser.pp$3.parseExprAtom (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3709:19)
+    at Parser.pp$3.parseExprSubscripts (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3484:19)
+    at Parser.pp$3.parseMaybeUnary (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3464:19)
+    at Parser.pp$3.parseExprOps (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3394:19)
+    at Parser.pp$3.parseMaybeConditional (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3371:19)
+    at Parser.pp$3.parseMaybeAssign (D:\cocosCreator\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3334:19)
+2017-07-03T14:57:49.727Z - normal: Compiled project javascript file successfully
+2017-07-03T15:08:50.951Z - normal: Compiled project javascript file successfully
+2017-07-03T15:09:36.016Z - normal: Compiled project javascript file successfully
+2017-07-03T15:10:13.679Z - normal: Compiled project javascript file successfully
+2017-07-03T15:10:27.958Z - normal: Compiled project javascript file successfully
+2017-07-03T15:10:42.561Z - normal: Compiled project javascript file successfully
+2017-07-03T15:12:33.311Z - normal: Compiled project javascript file successfully
+2017-07-03T15:13:06.777Z - normal: Compiled project javascript file successfully
+2017-07-03T15:13:54.922Z - normal: Compiled project javascript file successfully
+2017-07-03T15:14:47.585Z - normal: Compiled project javascript file successfully
+2017-07-03T15:15:02.916Z - normal: Compiled project javascript file successfully
+2017-07-03T15:15:47.687Z - normal: Compiled project javascript file successfully
+2017-07-03T15:16:24.092Z - normal: Compiled project javascript file successfully
+2017-07-03T15:16:34.417Z - normal: Compiled project javascript file successfully
+2017-07-03T15:16:58.432Z - normal: Compiled project javascript file successfully
+2017-07-03T15:17:43.077Z - normal: Compiled project javascript file successfully
+2017-07-03T15:18:04.887Z - normal: Compiled project javascript file successfully
